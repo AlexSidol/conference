@@ -1,6 +1,6 @@
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Archive from "../components/Archive";
-import imgUrl from "../public/assets/img/about-header.jpg";
+import imgUrl from "../public/assets/img/blog-header.jpg";
 
 function archive() {
   return (

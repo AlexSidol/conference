@@ -1,6 +1,6 @@
 import Breadcrumbs from "@/components/Breadcrumbs";
 import Participation from "../components/Participation";
-import imgUrl from "../public/assets/img/about-header.jpg";
+import imgUrl from "../public/assets/img/team-header.jpg";
 
 function participationTerms() {
   return (

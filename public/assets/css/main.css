@@ -396,7 +396,7 @@ section {
     width: 100%;
     max-width: 400px;
     bottom: 0;
-    transition: 0.3s;
+    transition: 0.8s;
     z-index: 9997;
   }
 
@@ -407,7 +407,7 @@ section {
     margin: 0;
     background: rgba(27, 47, 69, 0.9);
     overflow-y: auto;
-    transition: 0.3s;
+    transition: 0.8s;
     z-index: 9998;
   }
 
@@ -422,7 +422,7 @@ section {
     font-weight: 600;
     color: rgba(255, 255, 255, 0.7);
     white-space: nowrap;
-    transition: 0.3s;
+    transition: 0.8s;
   }
 
   .navbar a i,
